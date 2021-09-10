@@ -172,7 +172,7 @@ class FridgeTableViewCell: BaseTableViewCell {
         }
         
         basicMark.snp.makeConstraints { make in
-            make.left.equalToSuperview().inset(285)
+            make.right.equalTo(moreButton.snp.left)
             make.top.equalToSuperview().offset(-2.5)
         }
         memoLabel.snp.makeConstraints { make in
