@@ -29,8 +29,9 @@ class FoodTableViewCell: BaseTableViewCell {
 
             expirationLabel.text = "유통기한: " + expirationText
 
-            let distanceHour = Calendar.current.dateComponents([.hour], from: food!.expireAt, to: Date()).hour ?? 0
-            if distanceHour > 3 {
+            let distanceHour = abs(Calendar.current.dateComponents([.hour], from: food!.expireAt, to: Date()).hour ?? 0)
+            
+            if distanceHour > 72 {
                 warnIcon.isHidden = true
                 warnLabel.isHidden = true
             }
