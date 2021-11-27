@@ -57,9 +57,9 @@
 #### 5.1.1 냉장고 목록 화면
 
 <div style="width: 100%; text-align: center;">
-    <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:30%;">
-    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:30%;">
-    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:30%;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:33.33%; padding: 0; margin: 0;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:33.33%; padding: 0; margin: 0;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33.33%; padding: 0; margin: 0;">
 </div>
 
 <p style="clear:both;"></p>
@@ -76,9 +76,9 @@
 
 #### 5.1.2 식품 목록 화면
 
-<img src="my-refridge-ios/Resource/Captures/식품목록_등록일순.png" style="width:33.33%; float: left;">
-<img src="my-refridge-ios/Resource/Captures/식품 추가.png" style="width:33.33%; float: left;">
-<img src="my-refridge-ios/Resource/Captures/식품 수정.png" style="width:33.33%; float: left;">
+<img src="my-refridge-ios/Resource/Captures/식품목록_등록일순.png" style="width:33.33%;">
+<img src="my-refridge-ios/Resource/Captures/식품 추가.png" style="width:33.33%;">
+<img src="my-refridge-ios/Resource/Captures/식품 수정.png" style="width:33.33%;">
 
 
 - 냉장고 상세 식품 목록 화면
@@ -86,9 +86,9 @@
     - \+ 버튼을 눌러 식품을 추가할 수 있고
 - 등록일순, 유통기한순 정렬 제공
 
-<img src="my-refridge-ios/Resource/Captures/식품검색.png" style="width:33.33%; float: left;">
-<img src="my-refridge-ios/Resource/Captures/식품목록_냉동.png" style="width:33.33%; float: left;">
-<img src="my-refridge-ios/Resource/Captures/식품목록_삭제.png" style="width:33.33%; float: left;">
+<img align="left" src="my-refridge-ios/Resource/Captures/식품검색.png" style="width:33.33%;">
+<img align="left" src="my-refridge-ios/Resource/Captures/식품목록_냉동.png" style="width:33.33%;">
+<img align="left" src="my-refridge-ios/Resource/Captures/식품목록_삭제.png" style="width:33.33%;">
 
 <p style="clear:both;"></p>
 
