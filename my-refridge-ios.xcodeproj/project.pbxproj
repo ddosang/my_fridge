@@ -8,7 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		AA3173477643BD0CC4F35D39 /* Pods_my_refridge_ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7D22686949F0F7FFDA2F9B2 /* Pods_my_refridge_ios.framework */; };
+		AE04FB122750BE28004B3F2E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AE04FB112750BE28004B3F2E /* README.md */; };
 		AE15EF5C25F0048600EE1D97 /* FridgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE15EF5B25F0048600EE1D97 /* FridgeViewController.swift */; };
+		AE6D1303275271E100477FE2 /* 식품목록_등록일순.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D1301275271E100477FE2 /* 식품목록_등록일순.png */; };
+		AE6D1304275271E100477FE2 /* 식품목록_유통기한순.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D1302275271E100477FE2 /* 식품목록_유통기한순.png */; };
+		AE6D1306275273E500477FE2 /* 식품목록_삭제.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D1305275273E500477FE2 /* 식품목록_삭제.png */; };
+		AE6D1308275274E400477FE2 /* 식품목록_냉동.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D1307275274E400477FE2 /* 식품목록_냉동.png */; };
+		AE6D130A275275BB00477FE2 /* 식품검색.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D1309275275BB00477FE2 /* 식품검색.png */; };
+		AE6D130C2752763F00477FE2 /* 장보기메모.png in Resources */ = {isa = PBXBuildFile; fileRef = AE6D130B2752763F00477FE2 /* 장보기메모.png */; };
 		AE71CDB425D5423E0083B343 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE71CDB325D5423E0083B343 /* AppDelegate.swift */; };
 		AE71CDB625D5423E0083B343 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE71CDB525D5423E0083B343 /* SceneDelegate.swift */; };
 		AE71CDBD25D542400083B343 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE71CDBC25D542400083B343 /* Assets.xcassets */; };
@@ -45,7 +52,22 @@
 
 /* Begin PBXFileReference section */
 		4EAC0306DCBE1A430114261D /* Pods-my-refridge-ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-my-refridge-ios.release.xcconfig"; path = "Target Support Files/Pods-my-refridge-ios/Pods-my-refridge-ios.release.xcconfig"; sourceTree = "<group>"; };
+		AE04FB112750BE28004B3F2E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		AE15EF5B25F0048600EE1D97 /* FridgeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FridgeViewController.swift; sourceTree = "<group>"; };
+		AE6D12F927526CBC00477FE2 /* 메인.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "메인.png"; sourceTree = "<group>"; };
+		AE6D12FA27526CBC00477FE2 /* 냉장고 추가.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "냉장고 추가.png"; sourceTree = "<group>"; };
+		AE6D12FB27526CBC00477FE2 /* 식품 추가.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "식품 추가.png"; sourceTree = "<group>"; };
+		AE6D12FC27526CBC00477FE2 /* 식품 수정.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "식품 수정.png"; sourceTree = "<group>"; };
+		AE6D12FD27526CBC00477FE2 /* 검색.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "검색.png"; sourceTree = "<group>"; };
+		AE6D12FE27526CBC00477FE2 /* 냉장고 수정.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "냉장고 수정.png"; sourceTree = "<group>"; };
+		AE6D12FF27526CBC00477FE2 /* 메모 삭제.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "메모 삭제.png"; sourceTree = "<group>"; };
+		AE6D130027526CBC00477FE2 /* 메모.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "메모.png"; sourceTree = "<group>"; };
+		AE6D1301275271E100477FE2 /* 식품목록_등록일순.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "식품목록_등록일순.png"; path = "../../../../../../Desktop/식품목록_등록일순.png"; sourceTree = "<group>"; };
+		AE6D1302275271E100477FE2 /* 식품목록_유통기한순.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "식품목록_유통기한순.png"; path = "../../../../../../Desktop/식품목록_유통기한순.png"; sourceTree = "<group>"; };
+		AE6D1305275273E500477FE2 /* 식품목록_삭제.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "식품목록_삭제.png"; path = "../../../../../../Desktop/식품목록_삭제.png"; sourceTree = "<group>"; };
+		AE6D1307275274E400477FE2 /* 식품목록_냉동.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "식품목록_냉동.png"; path = "../../../../../../Desktop/식품목록_냉동.png"; sourceTree = "<group>"; };
+		AE6D1309275275BB00477FE2 /* 식품검색.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "식품검색.png"; path = "../../../../../../Desktop/식품검색.png"; sourceTree = "<group>"; };
+		AE6D130B2752763F00477FE2 /* 장보기메모.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "장보기메모.png"; path = "../../../../../../Desktop/장보기메모.png"; sourceTree = "<group>"; };
 		AE71CDB025D5423E0083B343 /* my-refridge-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "my-refridge-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE71CDB325D5423E0083B343 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE71CDB525D5423E0083B343 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -114,9 +136,31 @@
 			path = Fridge;
 			sourceTree = "<group>";
 		};
+		AE6D12E827526C8E00477FE2 /* Captures */ = {
+			isa = PBXGroup;
+			children = (
+				AE6D12FD27526CBC00477FE2 /* 검색.png */,
+				AE6D1309275275BB00477FE2 /* 식품검색.png */,
+				AE6D130B2752763F00477FE2 /* 장보기메모.png */,
+				AE6D12FE27526CBC00477FE2 /* 냉장고 수정.png */,
+				AE6D12FA27526CBC00477FE2 /* 냉장고 추가.png */,
+				AE6D12FF27526CBC00477FE2 /* 메모 삭제.png */,
+				AE6D130027526CBC00477FE2 /* 메모.png */,
+				AE6D12F927526CBC00477FE2 /* 메인.png */,
+				AE6D12FC27526CBC00477FE2 /* 식품 수정.png */,
+				AE6D12FB27526CBC00477FE2 /* 식품 추가.png */,
+				AE6D1301275271E100477FE2 /* 식품목록_등록일순.png */,
+				AE6D1302275271E100477FE2 /* 식품목록_유통기한순.png */,
+				AE6D1305275273E500477FE2 /* 식품목록_삭제.png */,
+				AE6D1307275274E400477FE2 /* 식품목록_냉동.png */,
+			);
+			path = Captures;
+			sourceTree = "<group>";
+		};
 		AE71CDA725D5423E0083B343 = {
 			isa = PBXGroup;
 			children = (
+				AE04FB112750BE28004B3F2E /* README.md */,
 				AE71CDB225D5423E0083B343 /* my-refridge-ios */,
 				AE71CDB125D5423E0083B343 /* Products */,
 				DDA5F6D0020BB6B147E02C80 /* Pods */,
@@ -171,6 +215,7 @@
 		AE71CDCE25D543B20083B343 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				AE6D12E827526C8E00477FE2 /* Captures */,
 				AE71CDE025D549F30083B343 /* Font */,
 				AE71CDBC25D542400083B343 /* Assets.xcassets */,
 			);
@@ -324,8 +369,15 @@
 				AE71CDEF25D54C6A0083B343 /* NotoSansKR-Light.otf in Resources */,
 				AE71CDC025D542400083B343 /* LaunchScreen.storyboard in Resources */,
 				AE71CDF525D54C700083B343 /* NotoSansKR-Thin.otf in Resources */,
+				AE6D1306275273E500477FE2 /* 식품목록_삭제.png in Resources */,
+				AE6D1303275271E100477FE2 /* 식품목록_등록일순.png in Resources */,
+				AE6D1308275274E400477FE2 /* 식품목록_냉동.png in Resources */,
 				AE71CDEE25D54C690083B343 /* NotoSansKR-Bold.otf in Resources */,
+				AE6D1304275271E100477FE2 /* 식품목록_유통기한순.png in Resources */,
+				AE04FB122750BE28004B3F2E /* README.md in Resources */,
 				AE71CDBD25D542400083B343 /* Assets.xcassets in Resources */,
+				AE6D130C2752763F00477FE2 /* 장보기메모.png in Resources */,
+				AE6D130A275275BB00477FE2 /* 식품검색.png in Resources */,
 				AE71CDF325D54C6E0083B343 /* NotoSansKR-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
