@@ -56,9 +56,9 @@
 
 #### 5.1.1 냉장고 목록 화면
 
-<img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:33%;">
-<img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:33%;">
-<img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33%;">
+<img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:33.33%;">
+<img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:33.33%;">
+<img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33.33%;">
 
 <br>
 
@@ -74,7 +74,7 @@
 
 #### 5.1.2 식품 목록 화면
 
-<img src="my-refridge-ios/Resource/Captures/식품목록_등록일순.png" style="width:100px; float: left;">
+<img src="my-refridge-ios/Resource/Captures/식품목록_등록일순.png" style="width:33.33%; float: left;">
 <img src="my-refridge-ios/Resource/Captures/식품 추가.png" style="width:33.33%; float: left;">
 <img src="my-refridge-ios/Resource/Captures/식품 수정.png" style="width:33.33%; float: left;">
 
