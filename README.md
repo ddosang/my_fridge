@@ -58,9 +58,8 @@
 
 <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:33%;">
 <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:33%;">
-<img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33%;">
+<img align="right" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33%;">
 
-<p style="clear:both;">
 
 - 냉장고 추가, 편집, 삭제 
     - \+ 버튼을 눌러 냉장고 추가 가능 - 아이콘 (4종류 제공) 냉장고 이름, 종류, 기본 냉장고 여부, 메모를 입력할 수 있다.
