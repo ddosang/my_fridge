@@ -56,7 +56,7 @@
 
 #### 5.1.1 냉장고 목록 화면
 
-<div>
+<div style="width: 100%; text-align: center;">
     <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:30%;">
     <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:30%;">
     <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:30%;">
