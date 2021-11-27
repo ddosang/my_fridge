@@ -57,12 +57,12 @@
 #### 5.1.1 냉장고 목록 화면
 
 <div>
-    <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:33%;">
-    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:33%;">
-    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:33%;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/메인.png" style="width:30%;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 추가.png" style="width:30%;">
+    <img align="left" src="my-refridge-ios/Resource/Captures/냉장고 수정.png" style="width:30%;">
 </div>
 
-
+<p style="clear:both;"></p>
 
 - 냉장고 추가, 편집, 삭제 
     - \+ 버튼을 눌러 냉장고 추가 가능 - 아이콘 (4종류 제공) 냉장고 이름, 종류, 기본 냉장고 여부, 메모를 입력할 수 있다.
@@ -90,6 +90,8 @@
 <img src="my-refridge-ios/Resource/Captures/식품목록_냉동.png" style="width:33.33%; float: left;">
 <img src="my-refridge-ios/Resource/Captures/식품목록_삭제.png" style="width:33.33%; float: left;">
 
+<p style="clear:both;"></p>
+
 - 필터, 정렬, 검색
     - 필터 : 냉장고 종류가 냉장/냉동인 경우 냉장, 냉동 필터 기능
     - 정렬 : 등록일순, 유통기한순 정렬
@@ -102,6 +104,8 @@
 <img src="my-refridge-ios/Resource/Captures/장보기메모.png" style="width:33.33%; float: left;">
 <img src="my-refridge-ios/Resource/Captures/장보기메모_삭제.png" style="width:33.33%; float: left;">
 <img src="my-refridge-ios/Resource/Captures/장보기메모_전체삭제.png" style="width:33.33%; float: left;">
+
+<p style="clear:both;"></p>
 
 - 장 볼 거리를 간단하게 한 줄 씩 메모를 할 수 있는 기능.
 - 메모 추가, 수정, 삭제, 이동
