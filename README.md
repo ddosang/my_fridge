@@ -12,9 +12,6 @@
 -  iOS (Swift)
     - SnapKit
 
-- 서버
-    - Spring Boot (Java)
-
 <br>
 
 ## 3. 프로젝트 구조와 개발 일정
